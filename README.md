@@ -1,6 +1,6 @@
 # Weather report app (Tailwind)
 
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://bejewelled-twilight-738e5d.netlify.app/)
 
 ## Table of contents
 
